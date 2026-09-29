@@ -108,7 +108,7 @@ void main() {
 
   print('\nTotal Quality Points: $totalQualityPoints');
   print('Total Credit Units: $totalCreditUnits');
-  print('GPA: $gpa');
+  print('GPA: ${cgpa.toStringAsFixed(2)}');
 
   if (gpa >= 4.5) {
     print('Congratulations! You have an excellent GPA.');
