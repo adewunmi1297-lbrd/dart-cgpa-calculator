@@ -1,5 +1,5 @@
 # dart-cgpa-calculator
-A command-lie CGPA Calculator built with Dart
+A command-line CGPA Calculator built with Dart
 ## Features
 - Enter course names
 - Enter course units
